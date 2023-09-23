@@ -1,0 +1,29 @@
+.list{
+	width: 30%;
+	height: 85px;
+	background-color: bisque;
+}
+
+img{
+	float: right;
+	width: 32vw;
+}
+
+.article{
+	background-color: darkgray;
+	max-width: 70%;
+}
+
+.text2{
+	clear: right;
+}
+
+.content{
+	display: flex;
+	background-color: aqua;
+	border: 2px solid green;
+}
+
+p{
+	margin: 0px;
+}

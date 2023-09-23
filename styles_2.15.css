@@ -1,0 +1,12 @@
+div{
+	width: 200px;
+	height: 100px;
+	background-color: aquamarine;
+	margin: 20px;
+	display: inline-block;
+}
+
+footer{
+	width: 100%;
+	background-color: AntiqueWhite;
+}

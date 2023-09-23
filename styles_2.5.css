@@ -1,0 +1,19 @@
+.block1{
+	width: 500px;
+	background-color: green;
+	color: white;
+	margin-top: 20px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.block2{
+	width: 500px;
+	background-color: blue;
+	color: white;
+	margin-top: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 40px;
+	border: 10px solid blue;
+}

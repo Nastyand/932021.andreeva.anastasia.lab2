@@ -1,0 +1,36 @@
+header{
+	height: 60px;
+	background-color: #EAEAEA;
+	padding: 5px;
+}
+
+.left{
+	float: left;
+	width: 185px;
+	background-color: #C8FC98;
+	padding-left: 10px;
+	padding-bottom: 10px;
+	padding-right: 5px;
+	margin-right: 7px;
+}
+
+.content{
+	padding-top: 3px;
+}
+
+span{
+	color: red;
+	font-style: italic;
+}
+
+footer{
+	background-color: black;
+	text-align: center;	
+	clear:left;
+	height: 30px;
+	line-height: 30px;
+}
+
+a{
+	color: #FFFF80;
+}

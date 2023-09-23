@@ -1,0 +1,23 @@
+.div1{
+	width: 35%;
+	height: 100px;
+	background-color: bisque;
+	margin-right: 7px;
+
+}
+
+.div2{
+	background-color: darkgray;
+	max-width: 64%;
+}
+
+.content{
+	display: flex;
+	background-color: aqua;
+	flex-wrap: wrap;
+	border: 2px solid green;
+}
+
+p{
+	margin: 0px;
+}

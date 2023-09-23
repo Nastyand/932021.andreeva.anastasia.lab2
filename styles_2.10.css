@@ -1,0 +1,14 @@
+.block1{
+	width: 200px;
+	height: 100px;
+	background-color: aquamarine;
+	float: left;
+	margin: 20px;
+	margin-bottom: 15px;
+}
+
+.block2{
+	clear: both;
+	background-color: bisque;
+	width: 100%;
+}

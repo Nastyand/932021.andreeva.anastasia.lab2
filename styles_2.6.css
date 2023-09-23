@@ -1,0 +1,15 @@
+.block1{
+	width: 500px;
+	margin-top: 20px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.block2{
+	width: 380px;
+	margin-top: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 50px;
+	border: 10px solid blue;
+}
